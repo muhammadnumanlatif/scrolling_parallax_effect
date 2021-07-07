@@ -9,4 +9,4 @@ When you scroll a list of cards (containing images, for example) in an app, you 
 
 In this recipe, you create the parallax effect by building a list of cards (with rounded corners containing some text). Each card also contains an image. As the cards slide up the screen, the images within each card slide down.
 
-![Download Button](https://flutter.dev/assets/cookbook/effects/ParallaxScrolling-149576bd1f0ab72b6958030e40652bc99a151dc4cdc7e56c67c3204c4e4eed37.gif)
+![Download Button](https://github.com/muhammadnumanlatif/scrolling_parallax_effect/blob/master/Screenshot_1625652942.png)
